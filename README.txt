@@ -1,4 +1,4 @@
-Joystick Control for Cocos2d Objective-C (in Swift)
+Wordpress Blog Feed for iOS
 ===================================================
 
 I wanted to be able to pull a feed from a Wordpress blog.
